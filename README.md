@@ -30,7 +30,7 @@ Ensure you have Python installed. The `turtle` library is a standard library inc
 Open your terminal or command prompt and run:
 
 ```bash
-python main.py
+Spiral-Lines.py
 ```
 
 ### 3. Output
